@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: ecomm
+    database: ECOMM
+    schema: ECOMM__PUBLIC
+
+    tables:
+      - name: RAW_CUSTOMERS
+      - name: RAW_ORDERS
+      - name: RAW_PAYMENTS

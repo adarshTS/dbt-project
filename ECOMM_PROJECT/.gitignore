@@ -1,0 +1,6 @@
+# Ignore dbt artifacts
+target/
+dbt_modules/
+logs/
+permissions.sql
+workspace_queries.sql
